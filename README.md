@@ -42,6 +42,13 @@ Built using **Spring Boot**, **STOMP over WebSocket**, and **Java**.
 <img width="1826" height="864" alt="image" src="https://github.com/user-attachments/assets/8939bf91-c277-4ec0-8544-341e270335bf" />
 
 
+<br>
+<br>
+🧑‍💻** Author**
+Ritesh Kumar 📧 ritesh0410
+
+
+
 
 
 
